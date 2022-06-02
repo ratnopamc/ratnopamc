@@ -54,11 +54,11 @@ Meanwhile you can read some of my older posts at <a href="https://medium.com/@ch
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=eratnch&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eratnch&layout=compact&theme=dark&exclude_repo=eratnch.github.io&langs_count=8&hide=javascript,html)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ratnopamc&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnopamc&layout=compact&theme=dark&exclude_repo=ratnopamc.github.io&langs_count=8&hide=javascript,html)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/eratnch/eratnch)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eratnch.eratnch)
-![Profile views](https://gpvc.arturio.dev/eratnch)
-![GitHub followers](https://img.shields.io/github/followers/eratnch)
+![GitHub last commit](https://img.shields.io/github/last-commit/ratnopamc/ratnopamc)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ratnopamc.ratnopamc)
+![Profile views](https://gpvc.arturio.dev/ratnopamc)
+![GitHub followers](https://img.shields.io/github/followers/ratnopamc)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
