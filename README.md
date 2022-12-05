@@ -6,25 +6,21 @@
 
 
 ## 🔭 I’m currently working on 
-- Containers 
-- Serverless
-- Application Modernization on AWS
+- Containers (EKS, ECS, AppMesh, EKS-A, Kubernets)
+- Serverless (Fargate, Lambda, Step Function)
+- Application Modernization technologies on AWS
+- DevOps (AWS DevOps Suite, Tekton, Spinnaker, Flux and others)
+- Infrastructure-as-Code (Terraform, CDK, Pulumi)
 
 
-
-## 🌱 I’m currently learning 
-- EKS, ECS, Fargate, Lambda, SageMaker
-- IaC(Terraform, ClouFormation)
-- AppMesh, Istio, Linkerd
-- AWS Code Pipeline/Code Deploy/Spinnaker/Tekton
 
 ## 👯 I’m open to collaborate on 
 - opensource kubernetes projects
-- opensource aws projects
+
 
 ## 💬 Ask me anything about 
 - :cloud: computing
-- aws
+- containers on AWS
 - k8s
 
 
