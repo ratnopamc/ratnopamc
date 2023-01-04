@@ -15,7 +15,7 @@
 
 
 ## 👯 I’m open to collaborate on 
-- opensource kubernetes projects
+- opensource kubernetes and Container projects
 
 
 ## 💬 Ask me anything about 
@@ -25,8 +25,8 @@
 
 
 ## ✍ Latest Blog Posts
-New blogs coming soon.....
-Meanwhile you can read some of my older posts at <a href="https://medium.com/@chakrar27">Medium</a>
+www.ratnopamc.com
+Some of my older posts at <a href="https://medium.com/@chakrar27">Medium</a>
 
 
 <!-- ## ⚡ Fun fact: -->
