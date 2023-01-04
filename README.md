@@ -25,7 +25,8 @@
 
 
 ## ✍ Latest Blog Posts
-www.ratnopamc.com
+I post on www.ratnopamc.com 
+
 Some of my older posts at <a href="https://medium.com/@chakrar27">Medium</a>
 
 
